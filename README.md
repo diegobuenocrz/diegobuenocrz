@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegobuenocrz
-- 👀 I’m interested in Front-End & Database!
-- 🌱 I’m currently learning Front-end ...
+- 👀 I’m interested in Back-Edn & Database!
+- 🌱 I’m currently with CS50x ...
 - 💞️ I’m looking to collaborate with al
 
 
